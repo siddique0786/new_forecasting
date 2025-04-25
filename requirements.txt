@@ -1,0 +1,10 @@
+streamlit
+autots
+sqlalchemy
+schedule
+psycopg2-binary
+matplotlib
+seaborn
+xgboost
+pandas 
+numpy
